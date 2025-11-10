@@ -1,0 +1,7 @@
+{
+  "name": "Event QR Check-in System",
+  "description": "A web application to manage event entrance and lunch distribution using a single QR code per attendee. It simulates a database using local storage and features a camera-based QR scanner for seamless check-ins.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
